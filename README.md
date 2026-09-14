@@ -1,2 +1,2 @@
 # HerbQuiz
-HerbQuiz – A Fun and Educational Tool for Learning Chinese Medicinal Herbs.
+HerbQuiz – A Fun and Educational WeChat Mini Program for Learning Chinese Medicinal Herbs.
